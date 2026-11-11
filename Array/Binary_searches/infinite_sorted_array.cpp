@@ -1,6 +1,6 @@
 // find element in infinite sorted array
 // we can use binary search to find the element in infinite sorted array
-// infinite sorted array mai yeh samaj nahi aarhaa tha ki end khaa rakhe --> end ko  index 1 pr rakhenge  and end=end*2 jab tak jab tak voh key badi hai arrayke elements se  then binary search ka concept lagega
+// infinite sorted array mai yeh samaj nahi aarhaa tha ki end khaa rakhe --> end ko  index 1 pr rakhenge  and end=end*2 jab tak jab tak voh key badi hai array ke elements se  then binary search ka concept lagega
 
 #include<iostream>
 using namespace std;
