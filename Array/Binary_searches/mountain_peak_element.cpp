@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//  it is also bitonic array if any one asking about bitonic then you tell him/her about first increasing array then decreasing array
 
 int main(){
     int arr[] = {2,4,6,8,10,7,5};
